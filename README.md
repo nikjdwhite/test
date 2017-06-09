@@ -6,9 +6,9 @@ Just checking out markdown format.
 
 ## Various formats #
 
-I guess I can do things like bolds etc, right?
+I guess I can do things like italics etc, right?
 
-### Bold #
+### Emphasis #
 
 I would guess I would *do it like this*.
 
@@ -18,3 +18,14 @@ I would guess I would *do it like this*.
 - this is 
 - how i would expect
 - to be able to make a list
+
+### Blockquotes #
+
+What follows is a block quote.
+>this is the block quote.
+
+### Code #
+
+  <?php
+    echo "Hello World!";
+   ?>
