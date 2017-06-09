@@ -26,6 +26,4 @@ What follows is a block quote.
 
 ### Code #
 
-  <?php
-    echo "Hello World!";
-   ?>
+  var myNumber = 5;
