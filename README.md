@@ -24,6 +24,4 @@ I would guess I would *do it like this*.
 What follows is a block quote.
 >this is the block quote.
 
-### Code #
 
-  var myNumber = 5;
